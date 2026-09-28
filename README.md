@@ -2,6 +2,43 @@
 
 Aplikasi web single-page berbasis HTML5, Tailwind CSS CDN, Vanilla JavaScript, Font Awesome CDN, dan Supabase JS v2 CDN.
 
+> 🚀 **Live Demo System:** [Klik di sini untuk membuka aplikasi](https://annisarahmi57.github.io/Sistem-Informasi-Manajemen-Aset-Tetap-Perusahaan-Manufaktur/)
+
+---
+
+## 📌 Deskripsi Proyek
+Aplikasi web **Sistem Informasi Manajemen Aset Tetap (SIMAT)** dirancang khusus untuk perusahaan manufaktur. Sistem ini membantu mengelola siklus hidup aset tetap mulai dari pencatatan master aset, perhitungan penyusutan/depresiasi otomatis, hingga riwayat pemeliharaan (*maintenance log*).
+
+Proyek ini dibuat untuk memenuhi tugas **UTS Pengkodean dan Pemrograman** oleh **Annisa Rahmi**.
+
+---
+
+## ✨ Fitur Utama
+* **Master Data Aset:** Pencatatan aset tetap pabrik & mesin manufaktur.
+* **Kalkulator Depresiasi:** Perhitungan otomatis metode garis lurus (*Straight-Line*) dan saldo menurun ganda (*Double Declining Balance*).
+* **Maintenance & Service Log:** Tracking riwayat perbaikan dan jadwal perawatan rutin aset.
+* **Database Integration:** Terintegrasi penuh secara real-time dengan Supabase PostgreSQL.
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+* **Frontend:** HTML5, Tailwind CSS, Vanilla JavaScript
+* **Database & Auth:** Supabase JS v2
+* **Icons:** Font Awesome CDN
+
+---
+
+## 📁 Struktur Repository
+```text
+.
+├── index.html            # Halaman utama aplikasi
+├── style.css             # Custom styling
+├── app.js                # Logika utama aplikasi & kalkulasi depresiasi
+├── supabase-config.js    # Konfigurasi koneksi Supabase DB
+├── schema.sql            # Skrip struktur tabel database
+├── seed.sql              # Skrip data dummy awal
+└── README.md             # Dokumentasi proyek
+
 ## Struktur
 
 ```text
