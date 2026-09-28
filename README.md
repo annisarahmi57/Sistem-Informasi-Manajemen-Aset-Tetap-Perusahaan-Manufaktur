@@ -3,7 +3,7 @@
 Aplikasi web single-page berbasis HTML5, Tailwind CSS CDN, Vanilla JavaScript, Font Awesome CDN, dan Supabase JS v2 CDN. 
 # 🏭 Fixed Asset Management System - Manufacturing
 
-> 🚀 **Live Demo System:** [Klik di sini untuk membuka aplikasi](https://github.com/annisarahmi57/Sistem-Informasi-Manajemen-Aset-Tetap-Perusahaan-Manufaktur/blob/main/Sistem%20Informasi%20Manajemen%20Aset%20Tetap%20Perusahaan%20Manufaktur/asset-management-vanilla/index.html)
+> 🚀 **Live Demo System:** [Klik di sini untuk membuka aplikasi](http://127.0.0.1:5500/asset-management-vanilla/index.html)
 
 
 ## Struktur
