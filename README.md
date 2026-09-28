@@ -3,7 +3,9 @@
 Aplikasi web single-page berbasis HTML5, Tailwind CSS CDN, Vanilla JavaScript, Font Awesome CDN, dan Supabase JS v2 CDN.
 
 > 🚀 **Live Demo System:** [Klik di sini untuk membuka aplikasi](https://annisarahmi57.github.io/Sistem-Informasi-Manajemen-Aset-Tetap-Perusahaan-Manufaktur/)
-
+> 🔑 **Akun Login Demo:**  
+> **Email:** `admin.manufaktur@demo.local`  
+> **Password:** `admin123`
 ---
 
 ## 📌 Deskripsi Proyek
